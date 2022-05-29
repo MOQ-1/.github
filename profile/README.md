@@ -15,3 +15,6 @@ MOQ 1 stands for Minimum Order Quantity 1. We are a one stop shop for a vast arr
 
 - Visit our [Website](https://www.moq1.co) to get started
 - Follow us on [Instagram](https://www.instagram.com/moq_one/)
+
+![https://www.moq1.co](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+![https://www.instagram.com/moq_one/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
